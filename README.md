@@ -1,3 +1,7 @@
+# Note on version
+
+This is a fork of https://github.com/IBM-Blockchain/ibm-container-service TThis fork has been made so that a copy of ibm-container-service compatible with composer 0.16.2 can be retained. 
+
 # Develop in a cloud sandbox
 # IBM Blockchain Platform
 
